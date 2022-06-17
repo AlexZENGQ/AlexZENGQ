@@ -1,5 +1,5 @@
 ### Hi all 👋
-![](https://komarev.com/ghpvc/?username=AlexZENGQe&color=lightgreen)
+![](https://komarev.com/ghpvc/?username=AlexZENGQe&color=brightgreen)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
