@@ -1,5 +1,5 @@
-### Yoo, I'm ZENG 👋
-> 拼命热爱,珍惜经历的一切,不管是开心还是痛苦
+### Yoo, I'm AlexZENG 👋
+> 最近重新拾起代码，往AI方向做一些事情，期待能做一些作品出来
 
 ![](https://komarev.com/ghpvc/?username=AlexZENGQe&color=brightgreen)
 
