@@ -61,7 +61,7 @@
   </p>
 
   <!-- 访客计数 -->
-<p align="center">
+  <p>
     <img src="https://count.getloli.com/get/@AlexZENGQ?theme=rule34" />
     <br/><sup>感谢来访 · Thanks for stopping by</sup>
   </p>
