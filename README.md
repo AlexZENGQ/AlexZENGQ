@@ -62,7 +62,6 @@
 
   <!-- 访客计数 -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlexZENGQ&color=brightgreen&style=flat-square" />
     <br/><sup>感谢来访 · Thanks for stopping by</sup>
   </p>
 
