@@ -7,7 +7,7 @@
   <!-- 引言 -->
   <blockquote align="center">
     <p><em>「从运营出发，用代码为笔，以产品为布 —— 在 AI 时代重新出发。」</em></p>
-    <p>沉浸在全栈与业务的交汇点，全盘拥抱 AI 浪潮。Stay Hungry, Stay Foolish.<br/>芝兰生于空谷，不以无人而不芳。</p>
+    <p>沉浸在全栈与业务的交汇点，全盘拥抱 AI 浪潮。</p>
   </blockquote>
 
   <!-- 核心标签 -->
