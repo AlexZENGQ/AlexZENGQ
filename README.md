@@ -3,12 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AlexZENGQe&color=brightgreen)
 
-- 🍻 Local at NanNing or GuangZhou
-- ⚡ HTML / CSS / JavaScript / Python
-- ✍️ [Blogger](https://juejin.cn/user/360295545716541)
-- 🥋 Boxing / KongFu
-
-
 <!-- 🖥️✨ Animated Header -->
   <h1>
     <a href="https://github.com/AlexZENGQ">
