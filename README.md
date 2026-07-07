@@ -1,4 +1,3 @@
- <!-- 动态标题 -->
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2ED8A8&center=true&vCenter=true&width=600&lines=Yoo%2C+I%27m+AlexZ
   ENG+%F0%9F%91%8B;Full-Stack+%E2%80%A2+Product+%E2%80%A2+AI;From+Ops+to+Code+%E2%9A%A1" />
@@ -26,11 +25,6 @@
   - 🥋 **Daily** — 沉浸式 AI 修行 · Boxing / 功夫 · 已减重 30 斤 · NanNing / GuangZhou
   ---
 
-
-
-
-  
-
   ### 🤖 我的 AI 时代宣言
 
   > **运营出身，我懂用户与留存；全栈手艺，我能让想法落地。**
@@ -41,7 +35,7 @@
 
   ### 🔗 联系我
 
-<p align="center">
+  <p align="center">
     <a href="https://juejin.cn/user/360295545716541">
       <img src="https://img.shields.io/badge/✍️%20Blogger-掘金-F1C900?style=for-the-badge" />
     </a>
