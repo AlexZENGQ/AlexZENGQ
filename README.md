@@ -47,8 +47,16 @@
   
   <!-- 统计 -->
   <p align="center">
-    <img height="160px"
+    <img width="480"
   src="https://github-readme-stats.vercel.app/api?username=AlexZENGQ&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2ED8A8&icon_color=7C3AED" />
-    <img height="160px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZENGQ&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2ED8A8" />
+  </p>
+
+  <p align="center">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZENGQ&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2ED8A8"
+  />
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlexZENGQ&label=Profile+Views&color=34D399&style=flat-square" />
+    <br/><sub>感谢来访 · Thanks for stopping by</sub>
   </p>
