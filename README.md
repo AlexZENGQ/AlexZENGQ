@@ -19,12 +19,11 @@
   </p>
 
   ---
-  ### 🧠 Tech Stack&nbsp;&nbsp;&nbsp;&nbsp;🚀 What I Do&nbsp;&nbsp;&nbsp;&nbsp;🥋 Daily
+  ## ⚡ 关于我
 
-  <sub>HTML / CSS / JS&nbsp;&nbsp;&nbsp;&nbsp;写代码 · 做产品&nbsp;&nbsp;&nbsp;&nbsp;沉浸式 AI 修行</sub><br/>
-  <sub>Python · Node.js&nbsp;&nbsp;&nbsp;&nbsp;运营出身，懂业务&nbsp;&nbsp;&nbsp;&nbsp;🥊 Boxing / 功夫</sub><br/>
-  <sub>AI / LLM / RAG&nbsp;&nbsp;&nbsp;&nbsp;全栈闭环交付&nbsp;&nbsp;&nbsp;&nbsp;🏃‍♂️ 已减重 30 斤</sub><br/>
-  <sub>React · Vue&nbsp;&nbsp;&nbsp;&nbsp;AI 产品化落地&nbsp;&nbsp;&nbsp;&nbsp;📍 NanNing / GuangZhou</sub>
+  - 🧠 **Tech Stack** — HTML / CSS / JS · Python · Node.js · AI / LLM / RAG · React · Vue
+  - 🚀 **What I Do** — 写代码做产品 · 运营出身懂业务 · 全栈闭环交付 · AI 产品化落地
+  - 🥋 **Daily** — 沉浸式 AI 修行 · Boxing / 功夫 · 已减重 30 斤 · NanNing / GuangZhou
   ---
 
 
