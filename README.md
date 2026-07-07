@@ -42,7 +42,7 @@
   ### 🔗 联系我
 
   <p align="center">
-    <a href="https://juejin.cn/user/3602935545716541">
+    <a href="https://juejin.cn/user/360295545716541">
       <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Blog-%E6%8E%88%E9%93%98-EE7800?style=for-the-badge" />
     </a>
     <a href="https://github.com/AlexZENGQ">
