@@ -41,8 +41,8 @@
 
   ### 🔗 联系我
 
-  <p align="center">
-    <a href="https://juejin.cn/user/360295545716541">
+   <p align="center">
+    <a href="https://juejin.cn/user/3602935545716541">
       <img src="https://img.shields.io/badge/掘金-F1C900?style=for-the-badge" />
     </a>
     <a href="https://github.com/AlexZENGQ">
