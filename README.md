@@ -19,21 +19,22 @@
   </p>
 
   ---
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <!-- ⚡ 关于我 · 三栏卡片 -->
+  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin: 10px 0;">
 
-    <div style="flex:1; min-width:180px; padding:15px; border:1px solid #30363D; border-radius:8px; background:#161B22;">
+    <div style="flex:1; min-width:180px; padding:18px; border:1px solid #30363D; border-radius:10px; background:#161B22;">
       <h3>🧠 Tech Stack</h3>
-      <p>HTML / CSS / JS<br>Python · Node.js<br>AI / LLM / RAG<br>React · Vue</p>
+      <sub>HTML / CSS / JS<br>Python · Node.js<br>AI / LLM / RAG<br>React · Vue</sub>
     </div>
 
-    <div style="flex:1; min-width:180px; padding:15px; border:1px solid #30363D; border-radius:8px; background:#161B22;">
+    <div style="flex:1; min-width:180px; padding:18px; border:1px solid #30363D; border-radius:10px; background:#161B22;">
       <h3>🚀 What I Do</h3>
-      <p>写代码 · 做产品<br>运营出身，懂业务<br>全栈闭环交付<br>AI 产品化落地</p>
+      <sub>写代码 · 做产品<br>运营出身，懂业务<br>全栈闭环交付<br>AI 产品化落地</sub>
     </div>
 
-    <div style="flex:1; min-width:180px; padding:15px; border:1px solid #30363D; border-radius:8px; background:#161B22;">
+    <div style="flex:1; min-width:180px; padding:18px; border:1px solid #30363D; border-radius:10px; background:#161B22;">
       <h3>🥋 Daily</h3>
-      <p>沉浸式 AI 修行<br>🥊 Boxing / 功夫<br>🏃‍♂️ 已减重 30 斤<br>📍 NanNing / GuangZhou</p>
+      <sub>沉浸式 AI 修行<br>🥊 Boxing / 功夫<br>🏃‍♂️ 已减重 30 斤<br>📍 NanNing / GuangZhou</sub>
     </div>
 
   </div>
