@@ -59,10 +59,3 @@
     <img height="160px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZENGQ&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2ED8A8" />
   </p>
-
-  <!-- 访客计数 -->
-  <p align="center">
-    <img src="https://count.getloli.com/get/@AlexZENGQ?theme=rule34" />
-    <br/><sup>感谢来访 · Thanks for stopping by</sup>
-  </p>
-
