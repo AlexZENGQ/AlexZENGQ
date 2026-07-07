@@ -23,7 +23,7 @@
   ### ⚡ 关于我
 
   | 🧠 Tech | 🚀 What I Do | 🥋 Daily |
-  |---|---|---|
+  |-----|-----|-----|
   | HTML / CSS / JS | 写代码 · 做产品 | 沉浸式 AI 修行 |
   | Python · Node.js | 运营出身，懂业务 | Boxing / 功夫 |
   | AI / LLM / RAG | 全栈闭环交付 | 已减重 30 斤 |
