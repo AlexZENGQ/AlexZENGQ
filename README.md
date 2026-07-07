@@ -43,9 +43,7 @@
       <img src="https://img.shields.io/badge/GitHub-AlexZENGQ-181717?style=for-the-badge" />
     </a>
   </p>
-
-  ---
-
+  
   <!-- 统计 -->
   <p align="center">
     <img height="160px"
@@ -53,5 +51,3 @@
     <img height="160px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZENGQ&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2ED8A8" />
   </p>
-
-  ---
