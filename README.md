@@ -65,7 +65,3 @@
     <img src="https://count.getloli.com/get/@AlexZENGQ?theme=rule34" />
     <br/><sup>感谢来访 · Thanks for stopping by</sup>
   </p>
-
-  ---
-
-  <p align="center"><i>「生于空谷，不以无人而不芳 —— 全情投入 AI 的浪潮中。」</i></p>
