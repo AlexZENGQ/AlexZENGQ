@@ -61,8 +61,8 @@
   </p>
 
   <!-- 访客计数 -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlexZENGQ&color=brightgreen&style=flat-square" />
+<p align="center">
+    <img src="https://count.getloli.com/get/@AlexZENGQ?theme=rule34" />
     <br/><sup>感谢来访 · Thanks for stopping by</sup>
   </p>
 
